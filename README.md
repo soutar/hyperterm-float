@@ -30,7 +30,7 @@ module.exports = {
     floatShortcut: 'Command+Alt+F'
   },
   plugins: [
-    'hyperterm-summon'
+    'hyperterm-float'
   ]
 }
 ```
