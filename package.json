@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-float",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make your HyperTerm windows float on top of other windows",
   "main": "index.js",
   "repository": {
