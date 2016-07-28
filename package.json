@@ -1,0 +1,20 @@
+{
+  "name": "hyperterm-float",
+  "version": "1.0.0",
+  "description": "Make your HyperTerm windows float on top of other windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperterm",
+    "plugin",
+    "always-on-top",
+    "float"
+  ],
+  "author": "John Soutar <john@soutar.me>",
+  "license": "ISC",
+  "dependencies": {
+    "hyperterm-register-shortcut": "^1.0.0"
+  }
+}
